@@ -1,0 +1,20 @@
+body
+{
+    margin:0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: url("https://ak4.picdn.net/shutterstock/videos/10088834/thumb/1.jpg");
+}
+.box
+{
+    position: absolute;
+    top:50%;
+    Left:50%;
+    transform: translate(-50%,-50%);
+    width: 600px;
+    padding:20px;
+    box-sizing: border-box;
+    background: #ffffff;
+    border-radius: 4px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+}
